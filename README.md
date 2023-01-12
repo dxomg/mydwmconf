@@ -2,9 +2,9 @@
 
 Share mouse and audio between 2 linux computers
 
-Install pavucontrol for input/output audio management
-Install paprefs for audio streaming via wifi/ethernet
-Install barrrier to share the mouse & keyboard between the two
+Install pavucontrol for input/output audio management <br>
+Install paprefs for audio streaming via wifi/ethernet <br>
+Install barrrier to share the mouse & keyboard between the two <br>
 
 Share screen between one computer to another
 
