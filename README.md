@@ -10,7 +10,7 @@ Share screen between one computer to another
 
 Install this file as like in this code
 
-- # via https://unix.stackexchange.com/questions/378373/add-virtual-output-to-xorg
+# via https://unix.stackexchange.com/questions/378373/add-virtual-output-to-xorg
 
 - cp 20-intel.conf /usr/share/X11/xorg.conf.d/20-intel.conf
 
